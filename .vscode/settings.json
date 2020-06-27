@@ -1,0 +1,5 @@
+{
+   "editor.wordWrap": "on",
+   "files.autoSaveDelay": 500,
+   "liveSassCompile.settings.showOutputWindow": false
+}
